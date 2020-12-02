@@ -9,5 +9,5 @@ Link to the report : [ref](https://meghbhalerao.github.io/pdfs/Megh-Bhalerao-Lip
 1. To train the CNN model, run `python train.py`, with the appropriate paths to the audio and video files.
 
 ## References
-1. 3D Convolutional Neural Networks for Cross Audio-Visual Matching Recognition. Amirsina Torfi, Seyed Mehdi Iranmanesh, Nasser Nasrabadi, Jeremy Dawson et al. *IEEE Access, Volume 5.*
+1. [3D Convolutional Neural Networks for Cross Audio-Visual Matching Recognition](https://ieeexplore.ieee.org/document/8063416). Amirsina Torfi, Seyed Mehdi Iranmanesh, Nasser Nasrabadi, Jeremy Dawson et al. *IEEE Access, Volume 5.*
 
